@@ -1,2 +1,3 @@
-# CovidDataProject
-Beginner SQL and Tableau Project to explore Covid data trend over the years ( 2021 to 2023)
+# Covid Data Trend
+
+[![Visualisation](https://github.com/thikyi/CovidDataProject/blob/main/Covid%20Infection%20Data%20Trend.png)]([https://example.com/](https://public.tableau.com/app/profile/thant.thiri.kyi/viz/CovidDataTrend/CovidInfectionDataTrend)https://public.tableau.com/app/profile/thant.thiri.kyi/viz/CovidDataTrend/CovidInfectionDataTrend)
